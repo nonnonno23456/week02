@@ -1,0 +1,14 @@
+/Users/han-yongmin/Library/CloudStorage/OneDrive-개인/vscode/c#/obj/Debug/net9.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/han-yongmin/Library/CloudStorage/OneDrive-개인/vscode/c#/obj/Debug/net9.0/c#.AssemblyInfoInputs.cache
+/Users/han-yongmin/Library/CloudStorage/OneDrive-개인/vscode/c#/obj/Debug/net9.0/c#.AssemblyInfo.cs
+/Users/han-yongmin/Library/CloudStorage/OneDrive-개인/vscode/c#/obj/Debug/net9.0/c#.csproj.CoreCompileInputs.cache
+/Users/han-yongmin/Library/CloudStorage/OneDrive-개인/vscode/c#/bin/Debug/net9.0/c#
+/Users/han-yongmin/Library/CloudStorage/OneDrive-개인/vscode/c#/bin/Debug/net9.0/c#.dll
+/Users/han-yongmin/Library/CloudStorage/OneDrive-개인/vscode/c#/bin/Debug/net9.0/c#.pdb
+/Users/han-yongmin/Library/CloudStorage/OneDrive-개인/vscode/c#/obj/Debug/net9.0/c#.dll
+/Users/han-yongmin/Library/CloudStorage/OneDrive-개인/vscode/c#/obj/Debug/net9.0/refint/c#.dll
+/Users/han-yongmin/Library/CloudStorage/OneDrive-개인/vscode/c#/obj/Debug/net9.0/c#.pdb
+/Users/han-yongmin/Library/CloudStorage/OneDrive-개인/vscode/c#/bin/Debug/net9.0/c#.deps.json
+/Users/han-yongmin/Library/CloudStorage/OneDrive-개인/vscode/c#/bin/Debug/net9.0/c#.runtimeconfig.json
+/Users/han-yongmin/Library/CloudStorage/OneDrive-개인/vscode/c#/obj/Debug/net9.0/c#.genruntimeconfig.cache
+/Users/han-yongmin/Library/CloudStorage/OneDrive-개인/vscode/c#/obj/Debug/net9.0/ref/c#.dll
